@@ -10,7 +10,7 @@ MRP.insert({
 'title':'La Voz de la Costa',
 'wmode':'transparent',
 'skin':'radiovoz',
-'width':220,
+'width':400,
 'height':69
 });
 </script>
